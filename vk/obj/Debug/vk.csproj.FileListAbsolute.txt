@@ -1,0 +1,6 @@
+C:\Users\osama\source\repos\vk\vk\bin\Debug\vk.exe.config
+C:\Users\osama\source\repos\vk\vk\bin\Debug\vk.exe
+C:\Users\osama\source\repos\vk\vk\bin\Debug\vk.pdb
+C:\Users\osama\source\repos\vk\vk\obj\Debug\vk.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\vk\vk\obj\Debug\vk.exe
+C:\Users\osama\source\repos\vk\vk\obj\Debug\vk.pdb
